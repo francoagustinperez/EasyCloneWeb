@@ -3,7 +3,7 @@ import requests
 
 
 def mostrar_menu():
-  print("Bienvenido al menu:")
+  print("Clona rapido cualquier pagina:")
   print("1. Clonar")
   print("2. Salir")
 
