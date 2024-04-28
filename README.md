@@ -2,6 +2,9 @@
 
 EasyCloneWeb es una herramienta simple escrita en Python que te permite clonar páginas web con facilidad.
 
+![cannabis-clones](https://github.com/francoagustinperez/EasyCloneWeb/assets/108749398/ad5df4c8-18f2-4872-8fbf-9fb5def02c7e)
+
+
 ## Requisitos
 
 Para ejecutar este script, necesitarás tener instalado Python en tu sistema. Además, asegúrate de tener instalado el paquete `requests`, que puedes instalar utilizando pip:
