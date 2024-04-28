@@ -15,7 +15,7 @@ pip install requests
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone <URL_del_repositorio>
+git clone https://github.com/francoagustinperez/EasyCloneWeb
 ```
 
 2. Navega al directorio del proyecto:
@@ -42,7 +42,6 @@ python clone.py
 
 Si encuentras algún error o tienes ideas para mejorar este proyecto, ¡siéntete libre de contribuir! Puedes abrir un problema o enviar una solicitud de extracción con tus cambios.
 
-## Licencia
+## Creador
 
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
-``` ````
+Franko Agustin Perez
